@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <div class="image">
-            <img src="th.jpg" width="400px" alt="Login Image">
+            <img src="image/th.jpg" width="400px" alt="Login Image">
         </div>
         <div class="content">
             <h3>Login to Your Account</h3>
